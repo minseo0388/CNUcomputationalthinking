@@ -1,21 +1,50 @@
-MIT License
+Non-Commercial Open Source Software License
 
-Copyright (c) 2025 Choi Minseo
+Definitions
+ 1.1 “Software” refers to all code, documentation, materials, and derivative works (hereinafter “the Work”) distributed under the terms of this License.
+ 1.2 “Author” refers to the original creator or principal contributor(s) of the Work.
+ 1.3 “Licensee” refers to any individual or entity using the Work under this License.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permissions
+ 2.1 No Commercial Use
+  - The Licensee may not use the Work for any commercial purposes. Commercial use includes, but is not limited to, any activity intended for monetary gain, resale, or provision of paid services that incorporate the Work.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+ 2.2 Free Distribution
+  - The Licensee is free to copy and distribute the original or modified versions of the Work, provided that a complete copy of this License and the original copyright notice accompany the distribution.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+ 2.3 Free Modification
+  - The Licensee is permitted to modify or adapt the Work without restriction; however, any derivative works must comply with the terms of this License.
+
+ 2.4 No Patent Use
+  - The Licensee shall not enforce any patent rights related to the Work or initiate any patent litigation or claims based on the Work.
+
+ 2.5 Private Use
+  - The Licensee may use the Work for personal, non-public purposes such as learning or research. However, submitting the Work as assignments or using it in ways that benefit any other institution/school is strictly prohibited.
+
+Conditions
+ 3.1 License and Copyright Notice
+  - Every copy or distribution of the Work, whether in original or modified form, must include this License in full along with the original copyright notice.
+
+ 3.2 Same License (Copyleft)
+  - Any distribution of derivative works or modified versions of the Work must be d 
+one under the same terms as set forth in this License.
+
+ 3.3 State Changes
+  - If any modifications are made to the Work, a clear statement of those changes and the date on which they were made must be documented and included with the distribution.
+
+Limitations
+ 4.1 Liability
+  - The Work is provided “as is,” without any express or implied warranty. In no event shall the Authors or distributors be liable for any damages (including direct, indirect, incidental, special, or consequential damages) arising out of the use or inability to use the Work.
+
+ 4.2 Warranty Disclaimer
+  - The Work is provided without any warranty, including but not limited to warranties of merchantability, fitness for a particular purpose, or noninfringement. The Licensee assumes full responsibility for any risks associated with the use of the Work.
+
+General
+ 5.1 These terms shall apply to all copies, modified versions, or derivative works of the Software.
+ 5.2 Any ambiguous or disputed provisions in this License shall be resolved in good faith through negotiation between the parties.
+
+──────────────────────────────
+
+This License permits non-commercial use, sharing, and modification of the Work, provided that the above conditions—such as inclusion of the license text, copyleft distribution for derivative works, and disclosure of modifications—are met. The License expressly prohibits commercial application, any exercise of patent rights, and using the Work in ways that benefit you by being evaluated at other institutions or schools (such as submitting it for assignments).
+
+(Additional specific details such as the date and Author’s name may be appended at the time of distribution.)
