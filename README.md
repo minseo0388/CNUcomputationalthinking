@@ -1,1 +1,1 @@
-# CNUcomputerthinking
+# computerthinking
